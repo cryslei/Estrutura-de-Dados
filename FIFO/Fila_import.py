@@ -1,0 +1,11 @@
+import import_Fila
+filateste = import_Fila.FilaP()
+filateste.inserir('g1',2)
+filateste.inserir('v1',1)
+filateste.inserir('v2',1)
+filateste.inserir('g2',2)
+filateste.show()
+filateste.remover()
+print('------')
+print(filateste.getPrim())
+filateste.show()

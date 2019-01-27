@@ -1,0 +1,11 @@
+fila :TAD com criterio especifico de insercao e remoção:
+FIFO : First In - First Out
+primeiro a entrar-primeiro a sair (peps)
+funcoes
+	criar
+	inserir
+	remover
+	getPrim
+	estahVazia
+	estahCheia
+TAD-tipo abstrato de dado
